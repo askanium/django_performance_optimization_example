@@ -11,7 +11,7 @@ Faker==0.7.18
 gprof2dot==2016.10.13
 idna==2.6
 ipaddress==1.0.18
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 psycopg2==2.7.3
 pycodestyle==2.3.1
